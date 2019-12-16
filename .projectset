@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-datatransport-transport-backend-cct/tags/1.0.0,google-datatransport-transport-backend-cct,403733703d20001a13bc9cc2f4b31a6b;https://github.com/dandar3/android-google-datatransport-transport-backend-cct;https://github.com/dandar3/android-google-datatransport-transport-backend-cct;branches;tags;trunk;true;fcf31c26-0bfe-d867-bcad-ce57b7db7bff;https://github.com/dandar3/android-google-datatransport-transport-backend-cct;;false;;;0"/>
+</provider>
+</psf>
